@@ -1,5 +1,3 @@
-
-
 import numpy as np
 from matplotlib import pyplot as plt
 
@@ -1157,5 +1155,6 @@ def M_hist(M, M_u, M_ref, N):
     plt.legend(loc='upper right')
     plt.title('M')
     plt.show()  
+
 
     return
