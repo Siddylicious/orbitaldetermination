@@ -1,5 +1,3 @@
-
-
 import numpy as np
 from matplotlib import pyplot as plt
 
@@ -1159,3 +1157,4 @@ def M_hist(M, M_u, M_ref, N):
     plt.show()  
 
     return
+
